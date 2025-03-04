@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cypress": "^14.1.0"
+    "cypress": "^14.1.0",
+    "cypress-axe": "^1.6.0"
   },
   "devDependencies": {
     "typescript": "^5.8.2"
