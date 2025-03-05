@@ -5,15 +5,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naopeke/cypress-accessibility-demo.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naopeke/cypress-accessibility-demo/issues"
+  },
+  "homepage": "https://github.com/naopeke/cypress-accessibility-demo#readme",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "cypress": "^14.1.0",
     "cypress-axe": "^1.6.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.8.2"
   }
 }
